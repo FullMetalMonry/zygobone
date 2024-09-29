@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: wheat;
+    text-align: center;
+    padding: 20px;
+}
+
+input, select, button {
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.js-output {
+    margin-top: 20px;
+    font-size: 20px;
+}
+
